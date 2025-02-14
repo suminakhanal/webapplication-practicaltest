@@ -44,7 +44,7 @@ if (!isset($_SESSION['user_id'])) {
 <br>
 
     <footer>
-        <p>&copy; 2025 Complaint Management System</p>
+        <p>&copy; Complaint Management System</p>
     </footer>
 </body>
 </html>
