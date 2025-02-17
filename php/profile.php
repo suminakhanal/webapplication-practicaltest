@@ -146,7 +146,7 @@ button:hover, input[type="submit"]:hover {
 </head>
 <body>
     <header>
-        <h1>Profile</h1>
+        <h1>Profile page</h1>
         <nav>
             <a href="index.html">Home</a>
             <a href="logout.php">Logout</a>

@@ -70,7 +70,7 @@
             <a href="login.html">Login</a>
             <a href="register.html">Register</a>
             <a href="./php/profile.php">Profile</a>
-            <a href="php/users.php">Users</a>
+            <a href="php/users.php">User</a>
             <a href="php/complaint_box.php">Complaint Box</a>
             <a href="php/view_complaints.php">View Complaints</a>
 
